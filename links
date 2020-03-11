@@ -1,1 +1,3 @@
-https://github.com/jonnylangefeld/docker-load-balance-test/tree/remove-unnecessary-stuff    --- HAProxy
+--- HAProxy --- 
+https://github.com/jonnylangefeld/docker-load-balance-test/tree/remove-unnecessary-stuff
+https://www.c-sharpcorner.com/article/haproxy-l7-load-balancing-with-docker-containers/
